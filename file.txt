@@ -1,2 +1,3 @@
 Hello,welcome to the world of devlopment!!
-Were going to study on "Branches"
+Were going to study on "Branches".
+Studied to push and pull.
